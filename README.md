@@ -4,4 +4,4 @@
 
 ***Today I learnt about Git and Github***
 
-<button>[Click Here](https://www.google.com){:target=”_blank”}</button>
+[Click Here](https://www.google.com){:target=”_blank” rel="noopener"}
